@@ -36,6 +36,7 @@ Fakebooker is an extensive open-source project that is essentially a clone of th
 - Integration testing package: `apollo-server-testing`
 
 **Most of the backend code is test covered except some resolvers and the subscription ones**
+** both server should run at same port using dev if you want to deploy it on heroky etc.
 
 ## Features ( 1.0.0 )
 
